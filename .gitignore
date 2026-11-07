@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archived projects, portfolios, and non-higher-ed materials
+_other_portfolio_and_archived_projects/
+
+# Temporary test images and inspection renders
+*.png
+*.jpg
+*.jpeg
+*.zip
+*.bak
+test_img.*
+test.pdf
+extracted_figures/
+scratch/
+
+# OS and Editor artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

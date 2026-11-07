@@ -1,0 +1,58 @@
+[01] Acemoglu, D., and Restrepo, P. (2018). The race between man and machine: Implications of technology for growth, factor shares, and employment. American Economic Review, 108(6), 1488-1542.
+[02] Acemoglu, D., and Restrepo, P. (2019). Automation and new tasks: How technology displaces and reinstates labor. Journal of Economic Perspectives, 33(2), 3-30.
+[03] Altonji, J. G., Arcidiacono, P., and Ma, X. (2016). The analysis of field of study choices. Handbook of the Economics of Education, 5, 305-377.
+[04] Altonji, J. G., Blom, E., and Meghir, C. (2012). Heterogeneity in human capital investments: High school curriculum, college major, and careers. Annual Review of Economics, 4(1), 185-223.
+[05] Arrow, K. J. (1973). Higher education as a filter. Journal of Public Economics, 2(3), 193-216.
+[06] Autor, D. H. (2015). Why are there still so many jobs? The history and future of workplace automation. Journal of Economic Perspectives, 29(3), 3-30.
+[07] Autor, D. H., Levy, F., and Murnane, R. J. (2003). The skill content of recent technological change: An empirical exploration. Quarterly Journal of Economics, 118(4), 1279-1333.
+[08] Azam, M., and Blom, A. (2008). Progress in participation in tertiary education and returns from education in India. World Bank Policy Research Working Paper, No. 4793.
+[09] Batheja, D., Hirshleifer, S., and Kaur, O. (2024). Does signalling college-level human capital matter? An experimental study in India. Economic Development and Cultural Change, doi:10.1086/743610.
+[10] Becker, G. S. (1964). Human Capital: A Theoretical and Empirical Analysis. National Bureau of Economic Research.
+[11] Ben-Porath, Y. (1967). The production of human capital and the life cycle of earnings. Journal of Political Economy, 75(4), 352-365.
+[12] Brown, J. R., Fang, C., and Gomes, F. (2012). Risk and returns to education. NBER Working Paper, No. 18300.
+[13] Brynjolfsson, E., Li, D., and Raymond, L. R. (2023). Generative AI at work. NBER Working Paper, No. 31161.
+[14] Brynjolfsson, E., Mitchell, T., and Rock, D. (2018). What can AI buy? The suitability of machine learning for tasks. AEA Papers and Proceedings, 108, 48-53.
+[15] Choudhury, P. K., and Kumar, V. (2022). Changing financing pattern of higher education in India: An assessment of household expenditure. Journal of Educational Planning and Administration, 36(2), 115-138.
+[16] Dale, S. B., and Krueger, A. B. (2002). Estimating the payoff to attending a more selective college. Quarterly Journal of Economics, 117(4), 1491-1527.
+[17] Dale, S. B., and Krueger, A. B. (2014). Estimating the effects of college characteristics on earnings: A test using duplicate applications. Journal of Human Resources, 49(2), 323-358.
+[18] Das, M., and Hilgenstock, B. (2018). The exposure of labor to automation: A global perspective. IMF Working Paper, WP/18/219.
+[19] Dell'Acqua, F., McFowland, E., Mollick, E., Lifshitz-Assaf, H., Kellogg, K., and Lakhani, K. R. (2023). Navigating the jagged technological frontier: Field experimental evidence of the effects of AI on knowledge worker productivity and quality. Harvard Business School Working Paper, No. 24-013.
+[20] Dutta, P. V. (2006). Returns to education: New evidence for India, 1983-1999. Education Economics, 14(4), 431-451.
+[21] Dynarski, S. M. (2003). Does aid matter? Measuring the effect of student financial aid on college attendance. American Economic Review, 93(1), 279-288.
+[22] Eloundou, T., Manning, S., Mishkin, P., and Rock, D. (2023). GPTs are GPTs: An early look at the labor market impact potential of large language models. arXiv preprint, arXiv:2303.10130.
+[23] Felten, E. W., Raj, M., and Seamans, R. (2021). A method to link advances in artificial intelligence to occupational abilities. AEA Papers and Proceedings, 111, 582-587.
+[24] Felten, E. W., Raj, M., and Seamans, R. (2023). How will language modelers affect occupations and industries? Strategic Management Journal, 44(8), 1891-1911.
+[25] Frisancho, V., and Krishna, K. (2016). Affirmative action in higher education in India: Targeting, selectivity, and completion. Journal of Development Economics, 119, 142-158.
+[26] Hazelkorn, E. (2015). Rankings and the Reshaping of Higher Education: The Battle for World-Class Excellence. Palgrave Macmillan.
+[27] Heckman, J. J., Layne-Farrar, A., and Todd, P. (1996). Does measured school quality really matter? An examination of the earnings-quality relationship. Review of Economics and Statistics, 78(4), 562-610.
+[28] Hoekstra, M. (2009). The effect of attending the flagship state university on earnings: A discontinuity-based approach. Review of Economics and Statistics, 91(4), 717-724.
+[29] Kanjilal-Bhaduri, S., and Pastore, F. (2017). Returns to education and female participation nexus: Evidence from India. IZA Discussion Paper, No. 11209.
+[30] Kijima, Y. (2006). Why did wage inequality increase? Evidence from urban India 1983-1999. Journal of Development Economics, 81(1), 97-117.
+[31] Kirkeboen, L. J., Leuven, E., and Mogstad, M. (2016). Field of study, earnings, and self-selection. Quarterly Journal of Economics, 131(3), 1057-1111.
+[32] Koerselman, K., and Uusitalo, R. (2014). The risk-return trade-off in higher education: A nonparametric approach. Labour Economics, 30, 290-300.
+[33] Lange, F., and Topel, R. (2006). The social value of education and human capital. Handbook of the Economics of Education, 1, 459-509.
+[34] Lee, D. S., and Lemieux, T. (2010). Regression discontinuity designs in economics. Journal of Economic Literature, 48(2), 281-355.
+[35] Lochner, L. J., and Monge-Naranjo, A. (2011). The nature of credit constraints and human capital. American Economic Review, 101(6), 2487-2529.
+[36] Lochner, L. J., and Monge-Naranjo, A. (2012). Credit constraints in education. Annual Review of Economics, 4(1), 225-256.
+[37] Marisha. (2021). Analysing the stability of India Rankings. Current Science, 120(7), 1144-1151. doi:10.18520/cs/v120/i7/1144-1151.
+[38] Mincer, J. (1974). Schooling, Experience, and Earnings. National Bureau of Economic Research.
+[39] Ministry of Education, Government of India. (2024). India Rankings 2024: National Institutional Ranking Framework. New Delhi.
+[40] Ministry of Statistics and Programme Implementation. (2023). Periodic Labour Force Survey (PLFS) Annual Report (2022-23). New Delhi.
+[41] Munshi, K., and Rosenzweig, M. (2016). Networks and misallocation: Theory and evidence from caste in India. American Economic Review, 106(8), 2177-2220.
+[42] NASSCOM. (2024). Strategic Review 2024: Technology Sector in India. National Association of Software and Service Companies, New Delhi.
+[43] Noy, S., and Zhang, W. (2023). Experimental evidence on the productivity effects of generative artificial intelligence. Science, 381(6654), 187-192.
+[44] Patra, S., Ray, T., and Chaudhuri, A. R. (2021). Impact of education loans on higher education: The Indian experience. Discussion Paper Series, No. 21-03, Planning Unit, Indian Statistical Institute, New Delhi.
+[45] Peng, S., Kalliamvakou, E., Cihon, P., and Demirer, M. (2023). The impact of AI on developer productivity: Evidence from GitHub Copilot. arXiv preprint arXiv:2302.06590.
+[46] Psacharopoulos, G., and Patrinos, H. A. (2018). Returns to investment in education: A decennial review of the global literature. Education Economics, 26(5), 445-458.
+[47] Reserve Bank of India. (2025). Database on Indian Economy (DBIE): Macroeconomic and Monetary Statistics. Mumbai.
+[48] Sekhri, S. (2020). Prestige matters: Value-added and signaling in elite college admissions in India. Journal of Human Resources, 55(4), 1312-1345.
+[49] Selten, F., Neylon, C., Huang, C. K., and Groth, P. (2020). A longitudinal analysis of university rankings. Quantitative Science Studies, 1(3), 1109-1135.
+[50] Sorz, J., Sommer, B., Bornmann, L., and Scherndl, T. (2015). Uncertainty analysis of ranking scores: How reliable are global university leagues? Journal of the Association for Information Science and Technology, 66(11), 2278-2288.
+[51] Spence, M. (1973). Job market signaling. Quarterly Journal of Economics, 87(3), 355-374.
+[52] Stiglitz, J. E. (1975). The theory of 'screening', education, and the distribution of income. American Economic Review, 65(3), 283-300.
+[53] Tilak, J. B. (2002). Public subsidies in education in India. Economic and Political Weekly, 37(4), 343-359.
+[54] Webb, M. (2019). The impact of artificial intelligence on the labor market. Stanford University Working Paper.
+[55] Westby, A., and Modestino, A. S. (2024). The impact of artificial intelligence on entry-level labor demand: Evidence from online job postings. Northeastern University Working Paper.
+[56] Wiswall, M., and Zafar, B. (2015). Determinants of college major choice: Identification using an information experiment. Review of Economic Studies, 82(2), 791-824.
+[57] World Bank. (2024). World Development Indicators: India Country Series. Washington, DC.
+[58] Zimmerman, S. D. (2014). The returns to college admission for academically marginal students. Journal of Labor Economics, 32(4), 711-754.
