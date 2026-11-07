@@ -4,7 +4,7 @@
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Tests: 49/49 PASSED](https://img.shields.io/badge/Validation_Tests-49%2F49_Passed-brightgreen.svg)](full_report.py)
-[![Preprint: SocArXiv](https://img.shields.io/badge/Preprint-SocArXiv_Working_Paper-orange.svg)](complete_revised_manuscript_socarxiv.md)
+[![Preprint: Zenodo](https://img.shields.io/badge/Preprint-Zenodo_Working_Paper-024dad.svg)](complete_revised_manuscript_zenodo.md)
 
 ---
 
@@ -70,7 +70,7 @@ pie title "Lifetime Valuation Variance Decomposition (Three-Way ANOVA)"
 ├── A_Risk_Adjusted_Framework_for_Valuing_Higher_Education_in_India_Revised.pdf  # Compiled 26-page Working Paper (PDF)
 ├── research project final.pdf                                                  # Direct print copy of manuscript
 ├── research project final.html                                                 # Interactive publication HTML
-├── complete_revised_manuscript_socarxiv.md                                     # Full SocArXiv Working Paper Markdown
+├── complete_revised_manuscript_zenodo.md                                     # Full Zenodo Working Paper Markdown
 ├── build_paper_html.py                                                         # Master compiler (HTML + Headless Edge PDF)
 │
 ├── run_monte_carlo.py                                                          # 10,000-iteration Monte Carlo Simulation
@@ -163,7 +163,8 @@ If you use this valuation model, econometric specifications, or dataset in your 
   title={A Risk-Adjusted Framework for Valuing Higher Education in India: Estimating Heterogeneous Returns to Undergraduate Education Under Cost, Financing, and Labor-Market Uncertainty},
   author={Sisodia, Bhavmanyu Singh},
   note={Supervised by Dr. Jaikishan Sahu, Professor, RPL Maheshwari College, Indore, India},
-  journal={SocArXiv Working Paper},
+  journal={Zenodo Working Paper},
+  publisher={Zenodo},
   year={2026},
   month={November},
   keywords={Higher education valuation, Net Present Value, NIRF, PLFS, AI task exposure, India}

@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Generated duplicate HTML
+paper_revised.html
+
 # Archived projects, portfolios, and non-higher-ed materials
 _other_portfolio_and_archived_projects/
 

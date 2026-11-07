@@ -1664,7 +1664,7 @@ Replacing glossy marketing brochures and ranking tables with transparent cash-fl
 
 ## Data Availability and Reproducibility Statement
 
-In accordance with open-science and SocArXiv preprint repository guidelines, all data sources, computational routines, and simulation engines used in this paper are documented to ensure full scientific reproducibility:
+In accordance with open-science and Zenodo preprint repository guidelines, all data sources, computational routines, and simulation engines used in this paper are documented to ensure full scientific reproducibility:
 
   - **Public Administrative Data:** Historical ranking archives and component methodology documents from the National Institutional Ranking Framework (NIRF, 2016–2025) are publicly accessible via the Ministry of Education portal (<a href="https://www.nirfindia.org">https://www.nirfindia.org</a>). Employment and wage distributions from the Periodic Labour Force Survey (PLFS 2022–23) are available from the Ministry of Statistics and Programme Implementation Microdata Archive (<a href="https://microdata.gov.in">https://microdata.gov.in</a>). Macroeconomic time series (CPI-Combined, Repo Rate, 10-Year G-Sec yields) are accessible via the Reserve Bank of India Database on Indian Economy (<a href="https://dbie.rbi.org.in">https://dbie.rbi.org.in</a>). Retail education loan schedules are published by the State Bank of India.
 
